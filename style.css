@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* header */
+/* banner section css styles */
+.banner-section{
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    align-items: center;
+}
+.banner-content{
+    width: 500px;
+}
