@@ -151,8 +151,8 @@ font-family: 'Work Sans', sans-serif;
 .offer{
     display: flex;
     align-items: center;
-    margin-left: 80px;
-    margin-right: 120px;
+    margin-left: 150px;
+    margin-right: 150px;
     gap: -30px;
     justify-content: space-around;
     padding: 20px;
@@ -180,35 +180,28 @@ font-family: 'Work Sans', sans-serif;
 }
 /* gallery image section css */
 .instagram-gallery{
-    /* margin-left: 150px;
-    margin-right: 20px; */
+    margin-left: 150px;
+    margin-right: 150px;
     margin-top: 80px;
 }
 .gallery{
-    margin: auto;
-    width: 80%;
-    padding: 10px;
+    display: flex;
+    gap: 30px;
 }
 .gallery img{
-    width: 200px;
-    margin-left: 35px;
+    width: 213px;
 }
 .instagram-title{
-    width: 530px;
+    margin-bottom: 20px;
     text-align: center;
     font-size: 35px;
     color: #272727;
-    margin-left: auto;
-    margin-right: auto;
 }
 .instagram-description{
-    width: 555px;
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-size: 14px;
     line-height: 30px;
-    margin-left: auto;
-    margin-right: auto;
     margin-bottom: 20px;
 }
 /* Subscribe section styles css */
@@ -217,15 +210,17 @@ font-family: 'Work Sans', sans-serif;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    margin: auto;
+    border-radius: 5px;
     margin-top: 80px;
-    width: 70%;
-    padding: 25px;
+    padding: 10px;
     height: 40vh;
+    margin-left: 150px;
+    margin-right: 150px;
+    width: 73%;
 }
 .subscribe-info{
     text-align: center;
-    margin-top: 60px;
+    margin-top: 40px;
 }
 .subscribe-info h3{
     font-size: 25px;
