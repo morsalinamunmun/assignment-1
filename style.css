@@ -88,6 +88,14 @@ font-family: 'Work Sans', sans-serif;
     height: 380px;
     position: relative;
 }
+.feature-flower1 p{
+    color:  #272727;
+    position: absolute;
+    text-decoration-line: underline;
+    top: 400px;
+    left: 70px;
+    font-weight: 600;
+}
 .feature-flower1 img{
     position: absolute;
     width: 230px;
@@ -102,6 +110,14 @@ font-family: 'Work Sans', sans-serif;
     height: 380px;
     position: relative;
 }
+.feature-flower2 p{
+    color:  #272727;
+    position: absolute;
+    text-decoration-line: underline;
+    top: 400px;
+    left: 70px;
+    font-weight: 600;
+}
 .feature-flower2 img{
     position: absolute;
     width: 230px;
@@ -115,6 +131,14 @@ font-family: 'Work Sans', sans-serif;
     width: 300px;
     height: 380px;
     position: relative;
+}
+.feature-flower3 p{
+    color:  #272727;
+    position: absolute;
+    text-decoration-line: underline;
+    top: 400px;
+    left: 70px;
+    font-weight: 600;
 }
 .feature-flower3 img{
     position: absolute;
