@@ -328,6 +328,12 @@ font-family: 'Work Sans', sans-serif;
     color: rgba(255, 255, 255, 0.40);
     font-size: 12px;
 }
+.footer-info a{
+    margin: auto;
+    width: 555px;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.90);
+}
 
 
 
