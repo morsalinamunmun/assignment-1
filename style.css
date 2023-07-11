@@ -127,9 +127,9 @@ font-family: 'Work Sans', sans-serif;
 .offer{
     display: flex;
     align-items: center;
-    margin-left: 50px;
-    margin-right: 90px;
-    /* gap: 50px; */
+    margin-left: 80px;
+    margin-right: 120px;
+    gap: -30px;
     justify-content: space-around;
     padding: 20px;
 }
@@ -145,7 +145,7 @@ font-family: 'Work Sans', sans-serif;
     margin-bottom: 20px;
 }
 .Offer-rating{
-  width: 590px;
+  width: 530px;
   text-align: center;
 }
 .offer-description{
@@ -186,4 +186,73 @@ font-family: 'Work Sans', sans-serif;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 20px;
+}
+/* Subscribe section styles css */
+.subscribe-section{
+    background-image: url('flower-images/Rectangle 9.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: auto;
+    margin-top: 80px;
+    width: 70%;
+    padding: 25px;
+    height: 40vh;
+}
+.subscribe-info{
+    text-align: center;
+    margin-top: 60px;
+}
+.subscribe-info h3{
+    font-size: 25px;
+    color: #272727;
+}
+.subscribe-info p{
+    font-size: 14px;
+    color:rgba(39, 39, 39, 0.60);
+    margin: 15px 0px;
+    
+}
+.subscribe-info input{
+    align-items: center;
+}
+.subscribe-info input[type='email']{
+    padding: 15px;
+    width: 370px;
+    border-radius: 5px;
+    border: none;
+}
+.subscribe-info input[type='submit']{
+    /* padding: 10px; */
+    font-size: 18px;
+}
+/* footer section css */
+.footer-section{
+    margin-top: 80px;
+    background-color: #111010;
+    color: #FFFFFF;
+    height: 50vh;
+}
+.flow-color{
+    color: #E55473;
+}
+.footer-info{
+    padding: 30px;
+    text-align: center;
+}
+.footer-info h3{
+    font-size: 25px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+.footer-info p{
+    margin: auto;
+    width: 555px;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.90);
+    line-height: 25px;
+}
+.end small{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 12px;
 }
